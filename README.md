@@ -4,9 +4,10 @@
 >- 양주 라벨을 찍으면 맛, 도수, 가격, 어울리는 음식, 부담없이 즐길수 있는 칵테일 레시피까지 알 수 있어요! <br/>
 >- 나만 알고있기 아까운 칵테일 레시피, 공유해주세요!  
 
-![Maronie_demo](/uploads/bda4197079f13fb1d45e186ed70ff40c/Maronie_demo.gif)
+![Maronie_demo](https://user-images.githubusercontent.com/77220012/162892600-01fd4042-4986-4da1-a5b1-fb2c43042dd1.gif)
 
-### `최종 배포`
+
+### `최종 배포` (기간종료)
 http://elice-kdt-ai-3rd-team11.elicecoding.com  
 
 ### `사용한 기술 스택 및 라이브러리`
